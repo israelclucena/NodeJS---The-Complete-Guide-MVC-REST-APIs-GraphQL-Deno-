@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "123245",
+    "title": "A Book",
+    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+    "description": "This is an awesome book!",
+    "price": "19"
+  },
+  {
+    "id": "0.41607315815753076",
+    "title": "fasfd",
+    "imageUrl": "fdasfs",
+    "description": "fadsfads",
+    "price": "12"
+  },
+  {
+    "id": "0.11771504459341409",
+    "title": "asdasd",
+    "imageUrl": "https://media.istockphoto.com/id/949118068/pt/foto/books.jpg?s=1024x1024&w=is&k=20&c=CNgQGzz9dVBfUivObKcw2MqJffLJ251zgpeyf2f-F5o=",
+    "description": "asdasdasd",
+    "price": "12"
+  },
+  {
+    "id": "0.8306610300421791",
+    "title": "book4",
+    "imageUrl": "https://media.istockphoto.com/id/949118068/pt/foto/books.jpg?s=1024x1024&w=is&k=20&c=CNgQGzz9dVBfUivObKcw2MqJffLJ251zgpeyf2f-F5o=",
+    "description": "book excelent",
+    "price": "1212"
+  }
+]
